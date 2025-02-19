@@ -1,6 +1,6 @@
 **Q1**: this is my system's processor configuaration :
 
-[!Task Manager Image](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/Taks%20Manager.png)
+![Task Manager Image](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/Taks%20Manager.png)
 | **Property** | **Value** |
 |--------------------------|------------------|
 | **Base Speed** | 2.30 GHz |
