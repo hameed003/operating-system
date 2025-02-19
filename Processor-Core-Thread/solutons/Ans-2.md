@@ -20,3 +20,7 @@ Not exactly! Let's analyze each statement carefully:
 - **Statements 2 and 3 are correct** and mean the same thing, just phrased differently.
 
 Would you like further clarification? 😊
+
+# Doubt:
+
+`2 logical cores` and `2 thread` are they both same thing? [Ans-3](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-3.md)

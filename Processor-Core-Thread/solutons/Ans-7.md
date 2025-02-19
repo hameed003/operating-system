@@ -25,4 +25,4 @@ Would you like a deeper technical breakdown? 😊
 
 # Doubt:
 
-is it similar to `virtualization of hardware resources` like we use `Vmware` and `virtaul box` to create multiple `OS` machine. [Ans-8]()
+is it similar to `virtualization of hardware resources` like we use `Vmware` and `virtaul box` to create multiple `OS` machine. [Ans-8](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-8.md)

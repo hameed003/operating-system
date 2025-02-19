@@ -25,7 +25,7 @@ are all thses 3 statement same. [Ans-2](https://github.com/hameed003/operating-s
 
 **Q5**: so that means the threds are not executed by the `phsical core` but it is executed by the `logcal cores`. [Ans-5](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-5.md)
 
-**Q6**: since you said the logical cores are created by `technologies like `Hyper-Threading (HT)`so if processoe does not support`HT`, so how it can even contain `4 logical cores`for`4 core process`, should it not only contain `4 physical core` ? [Ans-6](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-6.md)
+**Q6**: since you said the logical cores are created by `technologies like `Hyper-Threading (HT)`so if`processor` does not support`HT`, so how it can even contain `4 logical cores`for`4 physical core`, should it not only contain `4 physical core` ? [Ans-6](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-6.md)
 
 **Q7**: what does `logical cores` actually means are they any `program` or what ? [Ans-7](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-7.md)
 

@@ -48,3 +48,10 @@ Sure! Let's break down each specification of your processor in simple terms:
 Your CPU has **4 physical cores and 8 logical processors (Hyper-Threading enabled), with a base speed of 2.3 GHz**. It has a **multi-level caching system (L1, L2, L3) to speed up data access**. Virtualization is enabled, meaning you can run virtual machines smoothly.
 
 Would you like me to explain any specific part in more detail? 😊
+
+# Doubt:
+
+`satement 1`: 1 core contains two logical cores,
+`statement 2`: 1 core contains contains 2 thread and
+`statement 3`: 1 core can handle 2 thread
+are all thses 3 statement same. [Ans-2](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-2.md)

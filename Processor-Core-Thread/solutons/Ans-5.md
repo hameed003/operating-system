@@ -19,6 +19,6 @@ Yes! **Threads are executed by logical cores, not directly by physical cores.**
 
 Would you like a deeper explanation or a real-world analogy? 😊
 
-#### Doubt:
+# Doubt:
 
-since you said the logical cores are created by `technologies like `Hyper-Threading (HT)`so if processoe does not support`HT`, so how it can even contain `4 logical cores`for`4 core process`, should it not only contain `4 physical core` ? [Ans-6]()
+since you said the logical cores are created by `technologies like `Hyper-Threading (HT)`so if`processor` does not support`HT`, so how it can even contain `4 logical cores`for`4 physical core`, should it not only contain `4 physical core` ? [Ans-6](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-6.md)

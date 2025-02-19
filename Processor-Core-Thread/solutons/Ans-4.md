@@ -19,3 +19,7 @@ Yes, exactly! **Threads are not physically present in the core; they are created
 ✅ **A core can process multiple threads using scheduling and Hyper-Threading.**
 
 Would you like more details? 😊
+
+# Doubt:
+
+so that means the threds are not executed by the `phsical core` but it is executed by the `logcal cores`. [Ans-5](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-5.md)

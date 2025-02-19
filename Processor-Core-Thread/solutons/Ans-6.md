@@ -29,4 +29,4 @@ Would you like a practical example? 😊
 
 # Doubt:
 
-what does `logical cores` actually means are they any `program` or what ? [Ans-7]()
+what does `logical cores` actually means are they any `program` or what ? [Ans-7](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-7.md)

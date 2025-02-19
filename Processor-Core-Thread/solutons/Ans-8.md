@@ -35,4 +35,4 @@ Would you like an analogy to make it clearer? 😊
 
 # Doubt:
 
-consider a hypothothetical scenario where there is a `system/machine` which contains `4 physical cores` and `8 logiacal cores` and three is no process running on it currently and if i run a `program/softwar` which contains only `one process ( main thread )` and no `child process` or `sub process` ( other threads ), so will there be used only `one logical core`. [Ans-9]()
+consider a hypothothetical scenario where there is a `system/machine` which contains `4 physical cores` and `8 logiacal cores` and three is no process running on it currently and if i run a `program/softwar` which contains only `one process ( main thread )` and no `child process` or `sub process` ( means other threads ), so will there be used only `one logical core`. [Ans-9](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-9.md)

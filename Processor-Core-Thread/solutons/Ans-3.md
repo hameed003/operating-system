@@ -25,3 +25,7 @@ If a CPU has **Hyper-Threading (HT)** enabled:
 So, **"2 logical cores" means 2 virtual cores, while "2 threads" means 2 tasks being executed**.
 
 Let me know if you need more clarity! 😊
+
+# Doubt:
+
+means `threads` are not already present in the `core` but they are created once a software or application are run/executed. [Ans-4](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-4.md)
