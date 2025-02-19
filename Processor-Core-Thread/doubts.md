@@ -21,7 +21,7 @@ are all thses 3 statement same. [Ans-2](https://github.com/hameed003/operating-s
 
 **Q3**: `2 logical cores` and `2 thread` are they both same thing? [Ans-3](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-3.md)
 
-**Q4**: means `threads` are not already present in the `core` but they are created once a software or application are run/executed. [Ans-4](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-4.md)
+**Q4**: that means `threads` are not already present in the `core` but they are created once a software or application are run/executed. [Ans-4](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-4.md)
 
 **Q5**: so that means the threds are not executed by the `phsical core` but it is executed by the `logcal cores`. [Ans-5](https://github.com/hameed003/operating-system/blob/main/Processor-Core-Thread/solutons/Ans-5.md)
 
